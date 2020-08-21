@@ -2,6 +2,10 @@
 
 A my journal app made from node js expressjs and EJS.
 
+# About my-Journal app
+ my-Journal app is a content management system (CMS) is an application that helps you create and manage a website via a 
+ human-friendly interface rather than needing to work directly with code.
+
 
 > npm init to install all the packages required for this project
 > **Warning**: the project can only be seen using a server
