@@ -2,7 +2,7 @@
 
 Link for the Project : 
 
-A my journal app made from node js expressjs and EJS.
+A my journal app made from node js expressjs and EJS.A simple content management system (CMD) made from node js expressjs and EJS
 
 # About my-Journal app
  my-Journal app is a content management system (CMS) is an application that helps you create and manage a website via a 
