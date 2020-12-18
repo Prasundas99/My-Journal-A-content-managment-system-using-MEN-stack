@@ -5,14 +5,14 @@
 
 
   <%  posts.forEach(function(post){ %>
+    <div class="card">
+      <h1><%=post.Title%></h1>
+      
+      
+        <p><%=post.Message%></p>
+      
 
-    <h1><%=post.title%></h1>
-    <p>
-    <%=post.content.substring(0, 100) + " ..."%>
-    <a href="/posts/<%=post.title%>">Read More</a>
-    </p>
-
-
+    </div>
     <% }) %>
 
 
