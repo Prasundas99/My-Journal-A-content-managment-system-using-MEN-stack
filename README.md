@@ -1,6 +1,6 @@
 # my-Journal
 
-Link for the Project : 
+Link for the Project : https://menjournal.herokuapp.com/
 
 A my journal app made from node js expressjs and EJS.A simple content management system (CMD) made from node js expressjs and EJS
 
