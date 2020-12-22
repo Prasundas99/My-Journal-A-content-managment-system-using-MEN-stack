@@ -1,6 +1,4 @@
 //jshint esversion:6
-//mongodb+srv://user1:<password>@cluster0.rshjp.mongodb.net/<dbname>?retryWrites=true&w=majority
-
 
 const express = require("express");
 const bodyParser = require("body-parser");
