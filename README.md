@@ -12,7 +12,7 @@ Link for the Project : https://menjournal.herokuapp.com/
 
 # Stack used in the project:
 
-**A my journal app made from : **
+**A my journal app made from :**
  * **Node js**
  * **Expressjs**
  * **EJS-For templating**
