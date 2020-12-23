@@ -1,4 +1,4 @@
-# my-Journal-A content managment system using MEN stack
+# My-Journal-A content managment system using MEN stack
 
 Link for the Project : https://menjournal.herokuapp.com/
 
